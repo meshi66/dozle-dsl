@@ -1,0 +1,5 @@
+# Example YAML DSL template
+macro:
+  name: Example Macro
+  actions:
+    - call: SampleActionBlock
